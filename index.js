@@ -34,5 +34,6 @@ function divide(a, b){
 }
 
 function increment(n){
+  var n = 1
   return n++
 }
