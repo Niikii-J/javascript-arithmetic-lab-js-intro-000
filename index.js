@@ -41,6 +41,8 @@ function decrement(n){
   return n-=1
 }
 
-function makeInt(n){
-  return parseInt('n', 10)
+function makeInt(x, 10) {
+  const parsed = parseInt(n, 10);
+  if (isNaN(parsed)) { return 0; }
+  return parsed * 100;
 }
