@@ -1,9 +1,9 @@
 var number = 5
 
 function add(){
-  number+=
+  number++
 }
 
 function subtract(){
-  number-=
+  number--
 }
