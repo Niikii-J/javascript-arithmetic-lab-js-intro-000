@@ -7,3 +7,7 @@ function add(){
 function subtract(){
   number-= 1
 }
+
+function multiply(){
+  number*= 1
+}
