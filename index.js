@@ -11,3 +11,7 @@ function subtract(){
 function multiply(){
   number*= 1
 }
+
+function divide(){
+  number/= 1
+}
