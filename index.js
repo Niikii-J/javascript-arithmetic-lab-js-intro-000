@@ -33,7 +33,7 @@ function divide(a, b){
   return a / b
 }
 
-function increment(n){
+function increment(number){
   var number = 5
   return number++
 }
